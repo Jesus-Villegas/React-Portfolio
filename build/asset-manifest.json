@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.aa41f3b0.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.0df96874.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.0df96874.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.a275e46f.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.6867a319.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.6867a319.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e8bd7a8a.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e8bd7a8a.js.map",
-    "static/js/2.7b4eeb08.chunk.js": "/React-Portfolio/static/js/2.7b4eeb08.chunk.js",
-    "static/js/2.7b4eeb08.chunk.js.map": "/React-Portfolio/static/js/2.7b4eeb08.chunk.js.map",
+    "static/js/2.ed4338e1.chunk.js": "/React-Portfolio/static/js/2.ed4338e1.chunk.js",
+    "static/js/2.ed4338e1.chunk.js.map": "/React-Portfolio/static/js/2.ed4338e1.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.aa41f3b0.chunk.css.map": "/React-Portfolio/static/css/main.aa41f3b0.chunk.css.map",
-    "static/js/2.7b4eeb08.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.7b4eeb08.chunk.js.LICENSE.txt",
+    "static/css/main.a275e46f.chunk.css.map": "/React-Portfolio/static/css/main.a275e46f.chunk.css.map",
+    "static/js/2.ed4338e1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.ed4338e1.chunk.js.LICENSE.txt",
     "static/media/Day-Scheduler.00e534fe.png": "/React-Portfolio/static/media/Day-Scheduler.00e534fe.png",
-    "static/media/IMG_ME.f20eeafe.JPG": "/React-Portfolio/static/media/IMG_ME.f20eeafe.JPG",
+    "static/media/IMG_ME.7092bf56.JPG": "/React-Portfolio/static/media/IMG_ME.7092bf56.JPG",
     "static/media/Lowki.c6baf53c.png": "/React-Portfolio/static/media/Lowki.c6baf53c.png",
     "static/media/Mixed-Moods.af506cf3.png": "/React-Portfolio/static/media/Mixed-Moods.af506cf3.png",
     "static/media/Weather-Forecaster.0c620513.png": "/React-Portfolio/static/media/Weather-Forecaster.0c620513.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e8bd7a8a.js",
-    "static/js/2.7b4eeb08.chunk.js",
-    "static/css/main.aa41f3b0.chunk.css",
-    "static/js/main.0df96874.chunk.js"
+    "static/js/2.ed4338e1.chunk.js",
+    "static/css/main.a275e46f.chunk.css",
+    "static/js/main.6867a319.chunk.js"
   ]
 }
