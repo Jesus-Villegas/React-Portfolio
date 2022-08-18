@@ -1,0 +1,11 @@
+.font{
+    margin-top: 40px;
+    color: black;
+    display: inline;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.inline{
+    display: inline;
+}

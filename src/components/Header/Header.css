@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:auto;
+  }
+
+  .font2{
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+  }

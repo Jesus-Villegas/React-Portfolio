@@ -1,0 +1,40 @@
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .center{
+    display: center;
+  }
+
+  .space{
+    display: inline;
+    margin-bottom: 100px;
+    width: 8em;
+    margin-left: 50px;
+    font-size: medium;
+  }
+
+  .button{
+    margin-top: 75px;
+    margin-left: 100px;
+    display: center;
+    background:whitesmoke;
+    color: black;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+  }
+
+  .button:hover{
+    background: antiquewhite;
+    color: black;
+    cursor: pointer;
+  }
+
+  .bottom{
+    height: 200px;
+    margin-top: 10px;
+    background-color: black;
+  }
+  
